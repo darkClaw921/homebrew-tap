@@ -1,8 +1,8 @@
 class Arhit < Formula
   desc "CLI for code architecture and documentation — for AI agents and humans"
   homepage "https://github.com/darkClaw921/arhit"
-  url "https://github.com/darkClaw921/arhit/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "4a52440e8faeb82daf70e7d3c1124eea7ac3f487a23102969494b4f1d2996629"
+  url "https://github.com/darkClaw921/arhit/archive/refs/tags/v0.2.10.tar.gz"
+  sha256 "3b5c6ee83692c399eafab94be0f8fd2d2219a692f66a5b14f418e140c3a7dbef"
   license "MIT"
 
   depends_on "node@20"
