@@ -15,8 +15,8 @@
 class Devforge < Formula
   desc "Tmux + kanban + git web cockpit (F.O.R.G.E.)"
   homepage "https://github.com/darkClaw921/F.O.R.G.E."
-  url "https://github.com/darkClaw921/F.O.R.G.E./archive/refs/tags/v0.1.51.tar.gz"
-  sha256 "81d679e6442a3061abf36ddf40b646c4080f8d187b46a0a3b0504424d826fc2d"
+  url "https://github.com/darkClaw921/F.O.R.G.E./archive/refs/tags/v0.1.52.tar.gz"
+  sha256 "74a939876deb4e6f5e8cad7fb37048c3d6d9a0065f9bd6e3ae4ff4373a8a5535"
   license "MIT"
   head "https://github.com/darkClaw921/F.O.R.G.E..git", branch: "master"
 
